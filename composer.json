@@ -1,0 +1,13 @@
+{
+    "name": "adam/adam-anime",
+    "description": "Sebuah web sederhana untuk mencari anime favorit",
+    "type": "project",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Adam Arthur Faizal",
+            "email": "adam.faizal.af6@gmail.com"
+        }
+    ],
+    "require": {}
+}

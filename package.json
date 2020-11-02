@@ -1,0 +1,12 @@
+{
+  "name": "AdamAnime",
+  "version": "1.0.0",
+  "description": "Sebuah web sederhana untuk mencari anime favorit",
+  "repository": "https://github.com/adamarthurf/adamanime",
+  "author": "Adam Arthur Faizal",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
